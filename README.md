@@ -4,18 +4,18 @@ Este projeto tem por objetivo verificar o conhecimento teórico do candidato apl
 
 ### Conhecimentos necessários para desenvolvimento do projeto ###
 
-* Spring MVC (com foco na contrução de RESTFull webservers)
-* Gradle
-* Eclipse IDE
-* Bower
-* Padrões de projeto
-* JPA
-* Angular
-* Angular-material
-* Raciocinio lógico-matemático
-* Java8 LocalTime API
-* Conceitos de RESTFull API
-* Conceitos de banco de dados
+* Spring MVC (com foco na contrução de RESTFull webservers).
+* Gradle.
+* Eclipse IDE.
+* Bower.
+* Padrões de projeto.
+* JPA.
+* Angular.
+* Angular-material.
+* Raciocinio lógico-matemático.
+* Java8 LocalTime API.
+* Conceitos de RESTFull API.
+* Conceitos de banco de dados.
 
 ## Instruções para Execução do Projeto ##
 
