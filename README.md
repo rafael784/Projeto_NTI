@@ -13,9 +13,9 @@ Este projeto tem por objetivo verificar o conhecimento teórico do candidato apl
 * Angular.
 * Angular-material.
 * Raciocinio lógico-matemático.
-* Java8 LocalTime API.
-* Conceitos de RESTFull API.
-* Conceitos de banco de dados.
+* Java8 LocalTime API
+* Conceitos de RESTFull API
+* Conceitos de banco de dados
 
 ## Instruções para Execução do Projeto ##
 
